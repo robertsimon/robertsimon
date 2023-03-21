@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @robertsimon
-- 💞️ I’m looking to collaborate on any Blazor (serverside) project
 - 📫 How to reach me -> PM me
 
 <!---
